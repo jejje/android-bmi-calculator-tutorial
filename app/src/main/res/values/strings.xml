@@ -1,0 +1,7 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_weight">Weight in KG:</string>
+    <string name="bmi_height">Height in CM:</string>
+    <string name="bmi_calc_button">Calculate BMI</string>
+</resources>
